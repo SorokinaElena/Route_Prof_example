@@ -1,0 +1,16 @@
+.nav {
+    background-color: #4C4E52;
+    height: 10vh;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 25px;
+    gap: 100px;
+  }
+
+.nav a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}  

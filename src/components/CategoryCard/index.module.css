@@ -1,0 +1,17 @@
+.category_card {
+   height: 250px;
+   border: 2px solid #4C4E52;
+   border-radius: 12px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   position: relative;
+   font-size: 25px;
+   font-weight: 700;
+   color: #4C4E52;
+   text-decoration: none;  
+}
+
+.category_name {
+   position: absolute;
+}

@@ -1,0 +1,38 @@
+.product_page {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    color: #4C4E52;
+    font-size: 19px;
+}
+
+.images_container {
+    display: flex;
+    flex-direction: column;
+}
+
+.close_icon {
+    font-size: 30px;
+    position: absolute;
+    top: 50px;
+    right: 150px;
+    color: #4C4E52
+}
+
+.product_page p {
+    margin: 20px;
+}
+
+.product_page p::first-letter {
+    text-transform: uppercase;
+  }
+
+.title {
+    font-weight: 700;
+} 
+
+.product_page span {
+    font-weight: 700;
+}

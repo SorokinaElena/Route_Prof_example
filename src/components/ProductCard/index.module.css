@@ -1,0 +1,21 @@
+.product_card {
+    border: 2px solid #4C4E52;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    padding: 10px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #4C4E52;
+    font-weight: 700;
+    text-align: center;
+}
+
+.product_card img {
+    width: 180px;
+    height: 180px;
+    margin: 10px;
+    object-fit: contain;
+}
